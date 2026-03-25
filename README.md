@@ -48,7 +48,7 @@ sudo apt install -y gcc make
 ### 1. Clone the Repository
 
 ```bash
-git clone https://soulcrack-spoofs-admin@bitbucket.org/soulcrack-spoofs/soul-udp-stress.git
+git clone https://github.com/vikrant-project/soul-udp-stress
 cd soul-udp-stress
 ```
 
