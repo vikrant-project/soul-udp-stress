@@ -1,0 +1,54 @@
+# ========================
+# Compiled Binaries
+# ========================
+soul
+soul_debug
+*.o
+*.a
+*.so
+*.out
+a.out
+
+# ========================
+# Build Artifacts
+# ========================
+build/
+dist/
+*.d
+*.map
+
+# ========================
+# Logs & Runtime
+# ========================
+*.log
+stress.log
+nohup.out
+
+# ========================
+# IDE & Editor Files
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+._*
+Desktop.ini
+ehthumbs.db
+
+# ========================
+# GDB / Debug Files
+# ========================
+core
+core.*
+*.dSYM/
+vgcore.*
+callgrind.*
+cachegrind.*
